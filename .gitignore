@@ -1,0 +1,84 @@
+# Python virtual environments
+venv/
+venv312/
+.venv/
+env/
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Spark / Hadoop temporary files
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Generated visualization output
+# Keep the final dashboard image if you want it visible on GitHub.
+# Uncomment the next line if you do NOT want generated PNGs tracked.
+# visualization/*.png
+
+# Local database / data files
+*.db
+*.sqlite
+*.sqlite3
+
+# Large/local datasets
+# Uncomment if your data folder contains large raw datasets.
+# data/*.csv
+# data/*.json
+# data/*.parquet
+
+# Local secrets/configuration
+*.pem
+*.key
+*.crt
+
+# PostgreSQL dumps
+*.sql
+*.dump
+*.backup
+
+# Docker local overrides
+docker-compose.override.yml
+
+# OS / editor backups
+*~
+*.bak

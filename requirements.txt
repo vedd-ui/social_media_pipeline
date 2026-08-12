@@ -1,0 +1,8 @@
+pyspark
+vaderSentiment
+psycopg2-binary
+pandas
+matplotlib
+kafka-python
+python-dotenv
+tweepy
