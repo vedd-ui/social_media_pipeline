@@ -443,7 +443,7 @@ python visualization/dashboard.py
 
 The dashboard image will be generated as:
 
-visualization/social\_media\_dashboard.png
+\[Social Media Analytics Dashboard](visualization/social\_media\_dashboard.png)
 
 
 
