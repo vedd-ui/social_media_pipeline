@@ -3,8 +3,6 @@
 * An end-to-end social media data processing and analytics pipeline built using Python, Apache Kafka, PySpark, PostgreSQL, Docker, and VADER sentiment analysis.
 * The project demonstrates how social media data can be collected, streamed, processed, analyzed, stored, and visualized using a data engineering pipeline.
 
-
-
 **Project Overview**
 
 * This project processes social media tweet data and performs text cleaning, hashtag extraction, timestamp analysis, tweet-length analysis, and sentiment classification.
