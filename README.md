@@ -37,8 +37,6 @@ python-dotenv		-	Environment configuration
 
 Tweepy			-	Twitter/X API experimentation
 
-
-
 The project follows these major stages:
 
 Dataset
