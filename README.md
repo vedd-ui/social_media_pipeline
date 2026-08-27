@@ -65,13 +65,9 @@ PostgreSQL
 
 Visualization Dashboard
 
-
-
 **Dataset:**
 
 The project uses a dataset containing social media tweets.
-
-
 
 The raw data contains fields such as:
 
