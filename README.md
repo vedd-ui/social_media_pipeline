@@ -85,8 +85,6 @@ Hashtags
 
 The dataset is stored in PostgreSQL in the tweets table.
 
-
-
 **Kafka:**
 
 * Apache Kafka is included as the streaming layer of the architecture.
